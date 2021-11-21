@@ -1,4 +1,4 @@
-## FinApi - Financeia
+## FinApi - Financeira
 
 ### Requisitos e Regras de Negócio
 
