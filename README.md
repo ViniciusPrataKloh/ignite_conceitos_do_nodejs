@@ -51,11 +51,11 @@
 
         [x] Para que esse teste passe, você não deve permitir a mudança da propriedade done de um todo que não existe e retornar uma resposta contendo um status 404 e um json no seguinte formato de erro.
 
-    [] Should be able to delete a todo
+    [x] Should be able to delete a todo
 
-        [] Para que esse teste passe, DELETE /todos/:id você deve permitir que um todo seja excluído usando o id passado na rota. 
-        [] O retorno deve ser apenas um status 204 que representa uma resposta sem conteúdo.
+        [x] Para que esse teste passe, DELETE /todos/:id você deve permitir que um todo seja excluído usando o id passado na rota. 
+        [x] O retorno deve ser apenas um status 204 que representa uma resposta sem conteúdo.
 
-    [] Should not be able to delete a non existing todo
+    [x] Should not be able to delete a non existing todo
 
-        [] Para que esse teste passe, você não deve permitir excluir um todo que não exista e retornar uma resposta contendo um status 404 e um json no seguinte formato de erro.
+        [x] Para que esse teste passe, você não deve permitir excluir um todo que não exista e retornar uma resposta contendo um status 404 e um json no seguinte formato de erro.
